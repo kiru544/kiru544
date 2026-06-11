@@ -8,7 +8,7 @@ I like building things that solve a real problem I have — a Bible app that run
 
 ### Projects
 
-**[MBible](https://github.com/kiru544/MBible)** — Android Bible & note-taking app, designed to run smoothly on low-end devices.
+**[BibleNotes](https://github.com/kiru544/MBible)** — Android Bible & note-taking app, designed to run smoothly on low-end devices.
 > Kotlin · Android SDK (View-based) · SQLite · YouVersion API
 
 **MAssistant** *(in development)* — AI chatbot answering common questions about Christianity.
